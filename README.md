@@ -83,36 +83,11 @@ Only **you** can uncover the truth and save the season.
 
 ---
 
-# 🧪 Advent of Cyber Prep Track  
-
-Warm up with these pre-event learning rooms:
-
-| # | Topic              | Room                      |
-|---|--------------------|---------------------------|
-| 1 | Linux Basics       | **Shells Bells**          |
-| 2 | Phishing           | **Merry Clickmas**        |
-| 3 | SIEM / Splunk      | **Did You SIEM?**         |
-| 4 | AI in Security     | **Old sAInt Nick**        |
-| 5 | IDOR               | **Santa’s Little IDOR**   |
-| 6 | Malware Analysis   | **Egg-xecutable**         |
-| 7 | Network Scanning   | **Scan-ta Clause**        |
-
-More will unlock as the event begins…
-
----
-
 # 📚 Repository Structure 
 ```
 📂 Advent-of-Cyber-2025/
 ├── 📜 README.md
-├── 📁 Day-01/
-├── 📁 Day-02/
-├── 📁 Day-03/
-├── ...
-├── 📁 Prep-Track/
-│── Shells-Bells.md
-│── Merry-Clickmas.md
-│── ...
+├── 📁 Linux CLI – Shells Bells.md 
 └── 📁 Images/
 ```
 
