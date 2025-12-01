@@ -67,6 +67,7 @@ The -a flag shows the hidden files. The -l flag shows the additional details, su
 
 Read the hidden guide: `cat .guide.txt`
 
+![Output1](https://github.com/Deeptig9138/Advent-Of-Cyber-2025/blob/main/Images/aoc1.png)
 ---
 
 ## 🔎 Grepping the Logs
@@ -91,6 +92,7 @@ Look for malicious files left behind: `find /home/socmas -name egg`
 
 This reveals the file: `eggstrike.sh`
 
+![Output2](https://github.com/Deeptig9138/Advent-Of-Cyber-2025/blob/main/Images/aoc2.png)
 
 ---
 
@@ -115,7 +117,7 @@ Carrotbane is sabotaging Christmas wishes!
 | `>` / `>>` | Output redirection (overwrite / append) | `echo hi > output.txt` |
 | `&&` | Run next command only if previous succeeded | `grep "flag" file && echo "Found"` |
 ```
-`|`  x-x Pipe: send output from one command to another x-x `cat file | sort` 
+`|` - Pipe: send output from one command to another - `cat file | sort` 
 ```
 ---
 
@@ -159,6 +161,8 @@ cat .bash_history
 
 Check root’s history too (once elevated): `cat /root/.bash_history`
 
+![Output3](https://github.com/Deeptig9138/Advent-Of-Cyber-2025/blob/main/Images/aoc3.png)
+
 ---
 
 # 📝 Questions & Answers  
@@ -193,3 +197,5 @@ It contains a key for **Side Quest 1**
 ---
 
 🎄 **End of Shells Bells — Good job stepping into the world of Linux CLI!**  
+
+![Linux-CLI](https://github.com/Deeptig9138/Advent-Of-Cyber-2025/blob/main/Images/Linux-CLI.png)
