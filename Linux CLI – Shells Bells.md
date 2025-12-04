@@ -1,7 +1,5 @@
 # 🎄 Advent of Cyber 2025 — Linux CLI: Shells Bells  
 
----
-
 ## 🎅 Task 1: Introduction
 
 The unthinkable has happened — **McSkidy has been kidnapped**. Without her, Wareville’s defenses are weakening, and Christmas hangs by a thread. The TBFC (The Best Festival Company) team begins scrambling for clues, and their investigation points to **tbfc-web01**, a Linux server processing Christmas wishlists.
