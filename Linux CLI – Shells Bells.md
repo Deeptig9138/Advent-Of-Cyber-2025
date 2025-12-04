@@ -1,5 +1,4 @@
 # 🎄 Advent of Cyber 2025 — Linux CLI: Shells Bells  
-_A part of the Advent of Cyber Prep Track_
 
 ---
 
